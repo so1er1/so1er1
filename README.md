@@ -1,4 +1,4 @@
-## Hi there, I'm SO1ER 👋
+## Hi there, I'm Marco 👋
 
 - 🔭 I’m currently working on Full-Stack
 - 🌱 I’m currently learning M.E.R.N stack
